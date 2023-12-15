@@ -7,7 +7,7 @@ metadata:
     backstage.io/adr-location: docs/adrs
     github.com/project-slug: shiftdp/arcese-api
   links:
-    - url: 'https://google.com'
+    - url: 'https://my-arcese-api-service-uzl2sxzu2q-oc.a.run.app'
       title: 'my-arcese-api Link'
       # icon: ''
       # type: ''
